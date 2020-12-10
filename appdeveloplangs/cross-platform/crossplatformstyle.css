@@ -1,0 +1,181 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+  direction: rtl;
+  background-color: #404552
+}
+#navigation{
+  margin-top: 10px;
+  background-color: #383c4a;
+  margin-left: auto;
+  margin-right: auto;
+  width:1875px;
+  min-height: 75px;
+  border-radius: 15px;
+}
+#navigation .home{
+  text-decoration-line: none;
+  font-size: 40px;
+  float: right;
+  font-style: italic;
+  margin-top:10px;
+  margin-right:250px;
+  color: #5294e2;
+}
+#navigation h1{
+  float: right;
+  font-style: italic;
+  margin-top:15px;
+  margin-right:250px;
+  color: #5294e2;
+}
+.mozoat{
+  border-radius: 10px;
+  margin-top:11px;
+  margin-left: 775px;
+  float: left;
+  background-color: #4b5162;
+  width: 400px;
+  height: 50px;
+}
+
+.mozoat a{
+  font-weight: 600;
+  border-radius: 10px;
+			  font-size: 20px;
+			  float: right;
+			  color: #5294e2;
+			  text-align: right;
+			  padding: 14px 30.5px;
+			  text-decoration: none;
+			  }
+		  .mozoat a:hover {
+		  background-color: teal;
+		  color: lightblue;
+			  }
+        #main .kotlin{
+          float: right;
+          position: relative;
+          width: 600px;
+          height: 600px;
+          border-radius: 45px;
+          background-color: #383c4a;
+          margin-right: 275px;
+          margin-top: 50px;
+        }
+        #main .kotlin img{
+          position: absolute;
+          border-top-left-radius: 45px;
+          border-top-right-radius: 45px;
+        }
+        #main .kotlin a{
+          height: 60px;
+          width: 40px;
+          position: absolute;
+          top: 60%;
+          left: 82.5%;
+          background-color:green;
+          color: white;
+          font-size: 16px;
+          padding: 12px 24px;
+          border: none;
+          cursor: pointer;
+           border-radius:80px;
+        }
+        #main .kotlin i{
+          margin-top: 13px;
+          margin-right: 9px;
+          color: white;
+          position: absolute;
+        }
+        #main .kotlin h1{
+          color:  #5294e2;
+          position:absolute;
+          margin-top: 450px;
+          margin-right: 100px;
+        }
+        #main .kotlin p{
+          color:  #5294e2;
+          position:absolute;
+          margin-top: 500px;
+          margin-right: 100px;
+          font-size: 25px;
+        }
+
+        #main .java{
+          float: right;
+          position: relative;
+          width: 600px;
+          height: 600px;
+          border-radius: 45px;
+          background-color: #383c4a;
+          margin-right: 100px;
+          margin-top: 50px;
+        }
+        #main .java img{
+          position: absolute;
+          border-top-left-radius: 45px;
+          border-top-right-radius: 45px;
+        }
+        #main .java a{
+          height: 60px;
+          width: 40px;
+          position: absolute;
+          top: 60%;
+          left: 82.5%;
+          background-color:green;
+          color: white;
+          font-size: 16px;
+          padding: 12px 24px;
+          border: none;
+          cursor: pointer;
+           border-radius:80px;
+        }
+        #main .java img{
+          width: 600px;
+          height: 400px
+        }
+        #main .java i{
+          margin-top: 13px;
+          margin-right: 9px;
+          color: white;
+          position: absolute;
+        }
+        #main .java h1{
+          color:  #5294e2;
+          position:absolute;
+          margin-top: 450px;
+          margin-right: 100px;
+        }
+        #main .java p{
+          color:  #5294e2;
+          position:absolute;
+          margin-top: 500px;
+          margin-right: 100px;
+          font-size: 25px;
+        }
+        /*
+        colorpalete:
+        #404552
+        	#383c4a
+          #4b5162
+          	#5294e2
+            #7c818c
+        */
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
